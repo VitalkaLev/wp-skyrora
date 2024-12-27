@@ -1,0 +1,32 @@
+# WordPress specific
+wp-content/uploads/
+
+# WordPress Editor
+.editor
+
+# Mac system files
+.DS_Store
+
+# Environment variables
+.env
+
+# Node.js modules
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Cloudflare logs
+inc/cloudflare/cloudflare-*.txt
+
+# Local server files (MAMP, etc.)
+.well-known/MAMP-PRO
+
+# IDE configuration
+.idea/
+
+# Other temp files
+*.log
+*.bak
+*.swp
